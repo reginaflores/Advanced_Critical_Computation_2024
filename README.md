@@ -2,7 +2,7 @@
 
 ![](andromeda.gif)
 
-[BFA Design and Technology](https://www.newschool.edu/parsons/bfa-design-technology/), [Parsons School of Design](http://www.newschool.edu/parsons/).
+[BFA Design and Technology](https://www.newschool.edu/parsons/bfa-design-technology/), [Parsons School of Design](http://www.newschool.edu/parsons/)
 
 
 [Advanced Critical Computation Lab - PUDT2112 - Section A (BFA Design + Technology) 
@@ -59,7 +59,7 @@ For a full description of each class, see each week's folder.
 
 | # | Project | 
 |:--- |:--- |
-| #1 | Handmade Tales |
+| #1 | Handmade Website |
 | #2 | Multiple Perspectives |
 | #3 | For the Community |
 | #4 | Digital Divination |
