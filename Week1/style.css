@@ -1,0 +1,47 @@
+body{
+    background-color: blueviolet;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+header {
+    background-color: yellow;
+    opacity: 85%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+header * {
+    display: inline;
+}
+
+header li {
+    margin: 20px;
+    /* margin-right: 20px; */
+}
+header li a {
+    color: rgb(63, 4, 227);
+    text-decoration: none;
+    font-size: 20px;
+}   
+nav {
+    margin-left: 5%;
+}
+h1{
+    font-size: 50px;
+    color: yellow;
+}
+
+p{
+    font-size: 20px;
+    color: aliceblue;
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+
