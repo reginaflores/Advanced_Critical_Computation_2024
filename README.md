@@ -16,7 +16,9 @@
 * **Faculty e-mail:** [regina.flores@newschool.edu](mailto:regina.flores@newschool.edu)
 ---
 [Adv. CC Lab 2024 Course Website](https://advanced-critical-computation-2024.glitch.me/)  
-[Adv. CC Lab 2023 Course Syllabus](https://docs.google.com/document/d/1wVpHYO9ixrpYrvi0y1KhQeAdwBP62AMxk2ytaivQRjI/edit?usp=sharing).
+[Adv. CC Lab 2023 Course Syllabus](https://docs.google.com/document/d/1wVpHYO9ixrpYrvi0y1KhQeAdwBP62AMxk2ytaivQRjI/edit?usp=sharing)
+
+[Student Work](https://reginaflores.github.io/Advanced_Critical_Computation_2024/class_list.html)
 
 ---
 
