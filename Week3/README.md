@@ -20,10 +20,19 @@ git push origin main
 
 ## Command Line Cheat Sheet
 
+
+to change directory into that folder:
 ```
-cd "name of folder" to change directory into that folder
-cd "../" go one level up
-ls see what's in the current folder (dir for PC)
+cd "name of folder" 
+```
+go one level up
+```
+cd ..
+```
+see what's in the current folder (dir for PC)
+```
+ls 
+```
 cd ~/Desktop go back to your desktop 
 mkdir "name of folder" make a new folder
 touch "nameoffile.txt" make a new text file
