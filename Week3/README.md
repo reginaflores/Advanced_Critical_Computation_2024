@@ -8,6 +8,9 @@ Slides: [Week 3](https://docs.google.com/presentation/d/13xP5m_qESpxsH-AFVOmnjIC
 
 ![FlexBox CheatSheet](https://miro.medium.com/v2/resize:fit:1400/0*YeaUsQyhXSL1TCTH.png)
 
+# Resources:
+- https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+- https://medium.com/@MakeComputerScienceGreatAgain/understanding-flexbox-a-comprehensive-guide-992bcd5f04de
 
 
 ## Git Repo Terminal Instructions:
