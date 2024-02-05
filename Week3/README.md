@@ -33,13 +33,39 @@ see what's in the current folder (dir for PC)
 ```
 ls 
 ```
-cd ~/Desktop go back to your desktop 
-mkdir "name of folder" make a new folder
-touch "nameoffile.txt" make a new text file
-echo "woof woof" > kitty.txt make a new text file called kitty.txt with the words "woof woof" in it
-open "nameoffile.txt" open the text file
-cat "nameoffile.txt" read the text file in terminal
-open "nameoffolder" open the folder in finder * Macs
-start "nameoffolder" open the folder in file start * PC
-rm -rf "nameoffolder" delete a folder or file (BE VERY CAREFUL! YOU CAN'T UNDO
+go back to your desktop 
+```
+cd ~/Desktop 
+```
+make a new folder
+```
+mkdir name_of_folder 
+```
+make a new text file
+```
+touch nameoffile.txt
+```
+make a new text file called kitty.txt with the words "woof woof" in it
+```
+echo "woof woof" > kitty.txt 
+```
+open the text file
+```
+open nameoffile.txt
+```
+read the text file in terminal
+```
+cat nameoffile.txt
+```
+open the folder in finder (Macs)
+```
+open nameoffolder
+```
+open the folder in file start (PC)
+```
+start "nameoffolder" 
+```
+delete a folder or file (BE VERY CAREFUL! YOU CAN'T UNDO)
+```
+rm -rf "nameoffolder" 
 ```
