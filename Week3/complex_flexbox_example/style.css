@@ -1,0 +1,129 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
+body {
+  background: #f5f5f5;
+}
+
+.wrap {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.title {
+  font-family: "Montserrat";
+  font-size: 24px;
+  line-height: 30px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.card {
+  margin: 20px 0;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  border: 1px red solid;
+  padding: 9px;
+}
+
+
+.content {
+  color: #fff;
+  background-color: #cccccc;
+  padding: 20px;
+  font-family: "Montserrat";
+  font-size: calc(1vw + 1em);
+}
+
+@media (max-width: 375px) {
+  .content {
+    padding: 5px;
+    font-size: 0;
+    text-indent: -9999999em;
+  }
+}
+.container,
+.element {
+  padding: 10px;
+  border: 1px red solid;
+  padding: 9px;
+}
+
+.flex {
+  display: flex;
+  box-sizing: border-box;
+}
+
+.row {
+  flex-flow: row wrap;
+}
+
+.col {
+  flex-flow: column wrap;
+}
+
+.element {
+  min-width: 100px;
+}
+
+.content {
+  flex: 1 100%;
+}
+
+.structure {
+  min-height: 480px;
+}
+
+.structure-1 {
+  flex: 1 55.5555555556%;
+}
+
+.a {
+  flex: 1 40%;
+}
+
+.b {
+  flex: 1 60%;
+}
+
+.structure-1-2-1 {
+  flex: 1 20%;
+}
+
+.c,
+.d {
+  flex: 1 50%;
+}
+
+.e {
+  flex: 1 80%;
+}
+
+.structure-2 {
+  flex: 1 44.4444444444%;
+}
+
+.f {
+  flex: 1 50%;
+}
+
+.structure-2-2 {
+  flex: 1 50%;
+}
+
+.g {
+  flex: 1 75%;
+}
+
+.h {
+  flex: 1 25%;
+}
+
+@media (max-width: 768px) {
+  .structure-1,
+.structure-2,
+.f,
+.structure-2-2 {
+    flex: 1 100%;
+    min-height: 480px;
+  }
+}

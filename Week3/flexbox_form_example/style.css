@@ -1,0 +1,51 @@
+  body {
+      min-height: 100vh;
+      display: grid;
+      align-items: center;
+      font-family: 'Noto Sans Tai Le', sans-serif;
+
+  }
+
+  form {
+      display: flex;
+      flex-wrap: wrap;
+      height: 150px;
+      /* width: 150px; */
+  }
+
+  input {
+      font-family: 'Noto Sans Tai Le', sans-serif;
+      border: none;
+      background: hsl(0, 0%, 2%);
+      border-radius: .25rem;
+      padding: .75rem 1rem;
+  }
+
+  input::placeholder {
+    color: greenyellow;
+}
+
+  input[type=name] {
+      flex: 1 1 10ch;
+      margin: .5rem;
+  }
+
+  input[type=grade] {
+      flex: 1 1 10ch;
+      margin: .5rem;
+
+  }
+
+  input[type=email] {
+      flex: 3 1 30ch;
+      margin: .5rem;
+
+  }
+
+  input[type=submit] {
+      background: black;
+      color: greenyellow;
+      border: 5px solid greenyellow;
+      margin: .5rem;
+      box-shadow: 0 .75rem .5rem -.5rem hsl(0 50% 80%);
+  }
