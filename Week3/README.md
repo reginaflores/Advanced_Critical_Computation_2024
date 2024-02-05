@@ -1,7 +1,12 @@
 
-## WEEK 3: Terminal + FlexBox
+## WEEK 3: FlexBox + Terminal
 
 Slides: [Week 3](https://docs.google.com/presentation/d/13xP5m_qESpxsH-AFVOmnjICtOE5xpEc8nW7QQ0FL_OA/edit?usp=sharing)
+
+
+## FlexBox
+
+![FlexBox CheatSheet](https://miro.medium.com/v2/resize:fit:1400/0*YeaUsQyhXSL1TCTH.png)
 
 
 
@@ -69,3 +74,4 @@ delete a folder or file (BE VERY CAREFUL! YOU CAN'T UNDO)
 ```
 rm -rf nameoffolder
 ```
+
