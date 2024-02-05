@@ -47,7 +47,7 @@ touch nameoffile.txt
 ```
 make a new text file called kitty.txt with the words "woof woof" in it
 ```
-echo "woof woof" > kitty.txt 
+echo woof woof > kitty.txt 
 ```
 open the text file
 ```
@@ -63,9 +63,9 @@ open nameoffolder
 ```
 open the folder in file start (PC)
 ```
-start "nameoffolder" 
+start nameoffolder
 ```
 delete a folder or file (BE VERY CAREFUL! YOU CAN'T UNDO)
 ```
-rm -rf "nameoffolder" 
+rm -rf nameoffolder
 ```
