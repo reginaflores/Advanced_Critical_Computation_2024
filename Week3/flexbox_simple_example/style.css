@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    /* border: 1vh solid black; */
+    height: 100vh;
+
+    justify-content: space-evenly;
+    /* align-content: flex-end; */
+    /* align-items: center;  */
+    column-gap: 20px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+}
+.box{
+    width: 50vh;
+    /* height: 50vh; */
+    font-size: 5vh;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 0px; /* to round box */
+   /* flex: 1 0 21%; this will force the boxes to be 2 rows */
+
+}
+
+#box1{
+    background-color: red;
+}
+
+#box2{
+    background-color: blue;
+}
+
+#box3{
+    background-color: green;
+}
+#box4{
+    background-color: purple;
+}
