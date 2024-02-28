@@ -1,0 +1,29 @@
+
+
+body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.example-box {
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: pink;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input,
+button {
+    margin-top: 10px;
+}
+
+#enteredNamesList {
+    margin-top: 20px;
+    text-align: center;
+}
