@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+  }
+  
+  .container {
+    height: 100vh;
+    width: 100vw;
+    background-color: hsl(180, 50%, 50%);
+  }
+  
+  h1 {
+    margin: 0;
+  }

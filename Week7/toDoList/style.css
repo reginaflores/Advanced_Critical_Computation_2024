@@ -1,0 +1,67 @@
+body { 
+    font-family: Helvetica; 
+}
+
+/* ------ Layout ------ */ 
+.container { 
+    display: flex; 
+    justify-content: center; 
+    height: 100vh; 
+    flex-direction: column;
+}
+
+.header {
+    height: 20vh; 
+    display: flex; 
+    justify-content: center;
+    align-items:center;
+}
+
+.footer { 
+    height: 20vh;
+}
+
+.middle{ 
+    width: 100vw; 
+    height: 80vh; 
+    display: flex; 
+    justify-content: center;
+}
+
+.left {
+    width: 25vw; 
+}
+
+.right {
+    width: 25vw;
+}
+
+/* ------ Form ------ */
+.form {
+    display: flex; 
+    justify-content: start;
+    align-items:center;
+    width: 25vw;
+    flex-flow: column;
+}
+
+.list {
+    display: flex; 
+    justify-content: start;
+    align-items:center;
+    width: 25vw;
+    flex-flow: column;
+    line-height: 2em;
+}
+
+input[type=text] {
+    padding: 12px 20px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+}
+
+input[type=button] {
+    padding: 12px 20px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+}
